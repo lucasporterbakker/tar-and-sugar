@@ -3570,7 +3570,7 @@ textarea.form-control {
   width: 100%;
   height: 100%;
   color: #FF0076;
-  background-color: #fff;
+  background-color: RGBA(252, 252, 252, 1.00);
 }
 
 .preloader .preloader-svg {
